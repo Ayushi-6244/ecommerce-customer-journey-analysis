@@ -55,6 +55,3 @@ The analysis revealed several opportunities to improve conversion rates:
 
 ## Conclusion
 This project demonstrates how behavioral data analysis can help e-commerce companies optimize the customer journey and improve conversion performance.
-![Funnel](visuals/funnel_chart.png)
-![Device](visuals/device_conversion.png)
-![referral](visuals/referral_conversion.png)
