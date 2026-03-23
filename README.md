@@ -6,7 +6,7 @@ This project analyzes customer journey data from an e-commerce platform to under
 Using Python and data analysis techniques, the project evaluates how device usage, referral sources, engagement levels, and cart behavior influence purchasing outcomes.
 
 ## Project Notebook
-👉 [Open Full Analysis Notebook](notebooks/ecommerce_customer_journey_analysis.ipynb)
+👉 [Open Full Analysis Notebook](notebooks/ecommerce_analysis.ipynb)
 
 ## Dataset
 The dataset contains over **12,700+ customer interactions**, including:
